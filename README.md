@@ -1,3 +1,4 @@
+HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,7 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+# Agent-Orchestration-Framework-with-Langchain
+“The Agent-Orchestration Framework in LangChain manages how multiple AI agents work together to solve tasks. Each agent has a specific role, and the orchestrator decides the order of actions, shares information, and coordinates tool use. This helps complete complex tasks in a smooth, step-by-step workflow.”
+
